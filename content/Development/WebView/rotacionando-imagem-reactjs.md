@@ -6,7 +6,7 @@ Quando recebemos uma iamgem do nativo, e a foto foi tirada pela camera, encontra
 ```
 <canvas ref={c => this.canvas = c} style={{visibility: 'hidden', position: 'absolute', width:0, height:0}}/>
 ```
-4. Crie uma funcao para rotacionar a imagem
+4. Crie a funcao para rotacionar a imagem
 ```
 // Passando a imagem como parametro
 handleRotateImage(file) {
@@ -100,6 +100,7 @@ handleRotateImage(file) {
 }
 
 // Funcao auxiliar
+```
 base64ToArrayBuffer(base64) {
         base64 = base64.replace(/^data:([^;]+);base64,/gmi, '');
         const binaryString = atob(base64);
