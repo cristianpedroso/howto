@@ -1,5 +1,3 @@
-# Upload Imagem - IOS
-
 Para configurar o upload de imagem no iOS é mais simples do que parece...
 
 1. Acesse o seu arquivo info.plist
