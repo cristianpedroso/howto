@@ -96,11 +96,8 @@ handleRotateImage(file) {
 
         // Le a imagem, iniciando a funcao criada acima.
         reader.readAsDataURL(file);
-
 }
-
 // Funcao auxiliar
-```
 base64ToArrayBuffer(base64) {
         base64 = base64.replace(/^data:([^;]+);base64,/gmi, '');
         const binaryString = atob(base64);
@@ -110,7 +107,7 @@ base64ToArrayBuffer(base64) {
             bytes[i] = binaryString.charCodeAt(i);
         }
         return bytes.buffer;
-    }
+}
 ```
 5. Criar a funcao de retorno após o redimensionamento da imagem
 ```
