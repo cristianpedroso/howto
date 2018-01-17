@@ -95,3 +95,5 @@ Essa configuracao serve para resolver problemas como por exemplo
 </manifest>
 ```
 #### Pronto, agora é só rodar só seu APP
+
+###### Matheus Morett

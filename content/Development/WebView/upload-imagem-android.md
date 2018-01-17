@@ -116,3 +116,5 @@ Para configurar o upload de imagem no iOS é mais simples do que parece...
 
 
 #### Pronto, agora é só rodar só seu APP
+
+###### Matheus Morett

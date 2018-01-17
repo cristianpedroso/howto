@@ -90,3 +90,5 @@ Biblioteca para criação de elementos Canvas/SVG, utilizada em AgroPro para cri
 Biblioteca para cálculo do TSP (Traveller Salesman Problem), utilizada em AgroPro para definição do menor caminho para o produtor percorrer.
 A biblioteca apresenta várias soluções para esse problema como por exemplo Dynamic Programming ou Genetic Algorithm. Em AgroPro, foi utilizado a opção Best Improvement, pois tinha um tempo de resposta superior as outras, embora seu indíce de acerto seja cerca de 20% menor.
 - [WillyLoman](https://github.com/corbos/WillyLoman)
+
+###### Matheus Morett

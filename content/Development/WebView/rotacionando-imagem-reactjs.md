@@ -115,3 +115,5 @@ handleUploadImage(image) {
     // Aqui a imagem ja está em Base64 pronta para ser enviada ao back
 }
 ```
+
+###### Matheus Morett
